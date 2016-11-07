@@ -1,0 +1,81 @@
+[Fri Nov 04 22:33:54.882630 2016] [ssl:warn] [pid 10224:tid 256] AH01909: www.example.com:4499:0 server certificate does NOT include an ID which matches the server name
+[Fri Nov 04 22:33:55.147636 2016] [ssl:warn] [pid 10224:tid 256] AH01909: www.example.com:4499:0 server certificate does NOT include an ID which matches the server name
+[Fri Nov 04 22:33:55.261638 2016] [mpm_winnt:notice] [pid 10224:tid 256] AH00455: Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.24 configured -- resuming normal operations
+[Fri Nov 04 22:33:55.261638 2016] [mpm_winnt:notice] [pid 10224:tid 256] AH00456: Apache Lounge VC11 Server built: Jul  7 2016 11:13:22
+[Fri Nov 04 22:33:55.261638 2016] [core:notice] [pid 10224:tid 256] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Fri Nov 04 22:33:55.286638 2016] [mpm_winnt:notice] [pid 10224:tid 256] AH00418: Parent: Created child process 12240
+[Fri Nov 04 22:33:55.760643 2016] [ssl:warn] [pid 12240:tid 268] AH01909: www.example.com:4499:0 server certificate does NOT include an ID which matches the server name
+[Fri Nov 04 22:33:55.923646 2016] [ssl:warn] [pid 12240:tid 268] AH01909: www.example.com:4499:0 server certificate does NOT include an ID which matches the server name
+[Fri Nov 04 22:33:56.003646 2016] [mpm_winnt:notice] [pid 12240:tid 268] AH00354: Child: Starting 150 worker threads.
+[Fri Nov 04 22:34:38.706109 2016] [ssl:warn] [pid 10244:tid 256] AH01909: www.example.com:4499:0 server certificate does NOT include an ID which matches the server name
+[Fri Nov 04 22:34:38.771110 2016] [core:warn] [pid 10244:tid 256] AH00098: pid file D:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 04 22:34:38.883111 2016] [ssl:warn] [pid 10244:tid 256] AH01909: www.example.com:4499:0 server certificate does NOT include an ID which matches the server name
+[Fri Nov 04 22:34:38.914112 2016] [mpm_winnt:notice] [pid 10244:tid 256] AH00455: Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.24 configured -- resuming normal operations
+[Fri Nov 04 22:34:38.914112 2016] [mpm_winnt:notice] [pid 10244:tid 256] AH00456: Apache Lounge VC11 Server built: Jul  7 2016 11:13:22
+[Fri Nov 04 22:34:38.914112 2016] [core:notice] [pid 10244:tid 256] AH00094: Command line: 'd:\\xampp\\apache\\bin\\httpd.exe -d D:/xampp/apache'
+[Fri Nov 04 22:34:38.916112 2016] [mpm_winnt:notice] [pid 10244:tid 256] AH00418: Parent: Created child process 11116
+[Fri Nov 04 22:34:39.436130 2016] [ssl:warn] [pid 11116:tid 268] AH01909: www.example.com:4499:0 server certificate does NOT include an ID which matches the server name
+[Fri Nov 04 22:34:39.673132 2016] [ssl:warn] [pid 11116:tid 268] AH01909: www.example.com:4499:0 server certificate does NOT include an ID which matches the server name
+[Fri Nov 04 22:34:39.703132 2016] [mpm_winnt:notice] [pid 11116:tid 268] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 07 13:15:45.047263 2016] [ssl:warn] [pid 3588:tid 396] AH01909: www.example.com:4499:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 07 13:15:45.149607 2016] [core:warn] [pid 3588:tid 396] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+Failed loading d:\xampp\php\ext\php_xdebug-2.4.1-5.6-vc11.dll
+] AH01909: www.example.com:4499:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_bz2.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_curl.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_fileinfo.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_gd2.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_gettext.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_mbstring.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_exif.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_mysql.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_mysqli.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_pdo_mysql.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_pdo_sqlite.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_openssl.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_pdo_sqlsrv_56_ts.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_sqlsrv_56_ts.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  Cannot open 'd:\\xampp\\php\\extras\\browscap.ini' for reading in Unknown on line 0
+[Mon Nov 07 13:15:45.267334 2016] [mpm_winnt:notice] [pid 3588:tid 396] AH00455: Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.24 configured -- resuming normal operations
+[Mon Nov 07 13:15:45.267334 2016] [mpm_winnt:notice] [pid 3588:tid 396] AH00456: Apache Lounge VC11 Server built: Jul  7 2016 11:13:22
+[Mon Nov 07 13:15:45.267334 2016] [core:notice] [pid 3588:tid 396] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Nov 07 13:15:45.268335 2016] [mpm_winnt:notice] [pid 3588:tid 396] AH00418: Parent: Created child process 3692
+[Mon Nov 07 13:15:45.727611 2016] [ssl:warn] [pid 3692:tid 396] AH01909: www.example.com:4499:0 server certificate does NOT include an ID which matches the server name
+Failed loading d:\xampp\php\ext\php_xdebug-2.4.1-5.6-vc11.dll
+] AH01909: www.example.com:4499:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_bz2.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_curl.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_fileinfo.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_gd2.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_gettext.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_mbstring.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_exif.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_mysql.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_mysqli.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_pdo_mysql.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_pdo_sqlite.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_openssl.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_pdo_sqlsrv_56_ts.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'd:\\xampp\\php\\ext\\php_sqlsrv_56_ts.dll' - \xef\xbf\xbd\xe4\xa4\xa3\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdw\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xd2\xb2\xd5\xa1C\r\n in Unknown on line 0
+PHP Warning:  Cannot open 'd:\\xampp\\php\\extras\\browscap.ini' for reading in Unknown on line 0
+[Mon Nov 07 13:15:45.868638 2016] [mpm_winnt:notice] [pid 3692:tid 396] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 07 13:17:16.923697 2016] [mpm_winnt:crit] [pid 3692:tid 396] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Nov 07 13:18:29.376032 2016] [ssl:warn] [pid 3512:tid 408] AH01909: www.example.com:4499:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 07 13:18:29.457090 2016] [core:warn] [pid 3512:tid 408] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 07 13:18:29.551157 2016] [ssl:warn] [pid 3512:tid 408] AH01909: www.example.com:4499:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 07 13:18:29.726281 2016] [mpm_winnt:notice] [pid 3512:tid 408] AH00455: Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.24 configured -- resuming normal operations
+[Mon Nov 07 13:18:29.726281 2016] [mpm_winnt:notice] [pid 3512:tid 408] AH00456: Apache Lounge VC11 Server built: Jul  7 2016 11:13:22
+[Mon Nov 07 13:18:29.727285 2016] [core:notice] [pid 3512:tid 408] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Nov 07 13:18:29.728302 2016] [mpm_winnt:notice] [pid 3512:tid 408] AH00418: Parent: Created child process 8772
+[Mon Nov 07 13:18:30.264190 2016] [ssl:warn] [pid 8772:tid 432] AH01909: www.example.com:4499:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 07 13:18:30.438312 2016] [ssl:warn] [pid 8772:tid 432] AH01909: www.example.com:4499:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 07 13:18:30.540385 2016] [mpm_winnt:notice] [pid 8772:tid 432] AH00354: Child: Starting 150 worker threads.
+[Mon Nov 07 13:39:55.591333 2016] [:error] [pid 8772:tid 1752] [client ::1:2975] PHP Parse error:  syntax error, unexpected ';', expecting ']' in C:\\xampp\\htdocs\\laravel\\config\\database.php on line 122
+[Mon Nov 07 13:39:55.591333 2016] [:error] [pid 8772:tid 1752] [client ::1:2975] PHP Stack trace:
+[Mon Nov 07 13:39:55.591333 2016] [:error] [pid 8772:tid 1752] [client ::1:2975] PHP   1. {main}() C:\\xampp\\htdocs\\laravel\\public\\index.php:0
+[Mon Nov 07 13:39:55.591333 2016] [:error] [pid 8772:tid 1752] [client ::1:2975] PHP   2. Illuminate\\Foundation\\Http\\Kernel->handle() C:\\xampp\\htdocs\\laravel\\public\\index.php:54
+[Mon Nov 07 13:39:55.591333 2016] [:error] [pid 8772:tid 1752] [client ::1:2975] PHP   3. Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter() C:\\xampp\\htdocs\\laravel\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php:116
+[Mon Nov 07 13:39:55.591333 2016] [:error] [pid 8772:tid 1752] [client ::1:2975] PHP   4. Illuminate\\Foundation\\Http\\Kernel->bootstrap() C:\\xampp\\htdocs\\laravel\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php:144
+[Mon Nov 07 13:39:55.592336 2016] [:error] [pid 8772:tid 1752] [client ::1:2975] PHP   5. Illuminate\\Foundation\\Application->bootstrapWith() C:\\xampp\\htdocs\\laravel\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php:253
+[Mon Nov 07 13:39:55.592336 2016] [:error] [pid 8772:tid 1752] [client ::1:2975] PHP   6. Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap() C:\\xampp\\htdocs\\laravel\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:203
+[Mon Nov 07 13:39:55.592336 2016] [:error] [pid 8772:tid 1752] [client ::1:2975] PHP   7. Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles() C:\\xampp\\htdocs\\laravel\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php:38
