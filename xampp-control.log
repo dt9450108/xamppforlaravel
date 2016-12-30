@@ -1,356 +1,79 @@
-下午 10:21:23  [main] 	Initializing Control Panel
-下午 10:21:23  [main] 	Windows Version: Windows 7 Home Premium SP1 64-bit
-下午 10:21:23  [main] 	XAMPP Version: 5.6.24
-下午 10:21:23  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
-下午 10:21:23  [main] 	Running with Administrator rights - good!
-下午 10:21:23  [main] 	XAMPP Installation Directory: "d:\xampp\"
-下午 10:21:23  [main] 	Checking for prerequisites
-下午 10:21:24  [main] 	All prerequisites found
-下午 10:21:24  [main] 	Initializing Modules
-下午 10:21:24  [Apache] 	Problem detected!
-下午 10:21:24  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
-下午 10:21:24  [Apache] 	Apache WILL NOT start without the configured ports free!
-下午 10:21:24  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
-下午 10:21:24  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
-下午 10:21:24  [Apache] 	Problem detected!
-下午 10:21:24  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 4508!
-下午 10:21:24  [Apache] 	Apache WILL NOT start without the configured ports free!
-下午 10:21:24  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
-下午 10:21:24  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
-下午 10:21:24  [filezilla] 	Problem detected!
-下午 10:21:24  [filezilla] 	Port 21 in use by ""C:\Program Files (x86)\FileZilla Server\FileZilla Server.exe""!
-下午 10:21:24  [filezilla] 	FileZilla WILL NOT start without the configured ports free!
-下午 10:21:24  [filezilla] 	You need to uninstall/disable/reconfigure the blocking application
-下午 10:21:24  [filezilla] 	or reconfigure FileZilla and the Control Panel to listen on a different port
-下午 10:21:24  [filezilla] 	Problem detected!
-下午 10:21:24  [filezilla] 	Port 14147 in use by ""C:\Program Files (x86)\FileZilla Server\FileZilla Server.exe""!
-下午 10:21:24  [filezilla] 	FileZilla WILL NOT start without the configured ports free!
-下午 10:21:24  [filezilla] 	You need to uninstall/disable/reconfigure the blocking application
-下午 10:21:24  [filezilla] 	or reconfigure FileZilla and the Control Panel to listen on a different port
-下午 10:21:24  [main] 	Starting Check-Timer
-下午 10:21:24  [main] 	Control Panel Ready
-下午 10:32:46  [Apache] 	Problem detected!
-下午 10:32:46  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
-下午 10:32:46  [Apache] 	Apache WILL NOT start without the configured ports free!
-下午 10:32:46  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
-下午 10:32:46  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
-下午 10:32:46  [Apache] 	Problem detected!
-下午 10:32:46  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 4508!
-下午 10:32:46  [Apache] 	Apache WILL NOT start without the configured ports free!
-下午 10:32:46  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
-下午 10:32:46  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
-下午 10:32:46  [Apache] 	Attempting to start Apache app...
-下午 10:32:47  [Apache] 	Status change detected: running
-下午 10:32:49  [Apache] 	Status change detected: stopped
-下午 10:32:49  [Apache] 	Error: Apache shutdown unexpectedly.
-下午 10:32:49  [Apache] 	This may be due to a blocked port, missing dependencies, 
-下午 10:32:49  [Apache] 	improper privileges, a crash, or a shutdown by another method.
-下午 10:32:49  [Apache] 	Press the Logs button to view error logs and check
-下午 10:32:49  [Apache] 	the Windows Event Viewer for more clues
-下午 10:32:49  [Apache] 	If you need more help, copy and post this
-下午 10:32:49  [Apache] 	entire log window on the forums
-下午 10:32:57  [mysql] 	Attempting to start MySQL app...
-下午 10:32:57  [mysql] 	Status change detected: running
-下午 10:33:08  [Apache] 	Problem detected!
-下午 10:33:08  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
-下午 10:33:08  [Apache] 	Apache WILL NOT start without the configured ports free!
-下午 10:33:08  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
-下午 10:33:08  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
-下午 10:33:08  [Apache] 	Problem detected!
-下午 10:33:08  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 4508!
-下午 10:33:08  [Apache] 	Apache WILL NOT start without the configured ports free!
-下午 10:33:08  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
-下午 10:33:08  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
-下午 10:33:08  [Apache] 	Attempting to start Apache app...
-下午 10:33:08  [Apache] 	Problem detected!
-下午 10:33:08  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
-下午 10:33:08  [Apache] 	Apache WILL NOT start without the configured ports free!
-下午 10:33:08  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
-下午 10:33:08  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
-下午 10:33:08  [Apache] 	Problem detected!
-下午 10:33:08  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 4508!
-下午 10:33:08  [Apache] 	Apache WILL NOT start without the configured ports free!
-下午 10:33:08  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
-下午 10:33:08  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
-下午 10:33:08  [Apache] 	Attempting to start Apache app...
-下午 10:33:08  [Apache] 	Status change detected: running
-下午 10:33:09  [Apache] 	Status change detected: stopped
-下午 10:33:09  [Apache] 	Error: Apache shutdown unexpectedly.
-下午 10:33:09  [Apache] 	This may be due to a blocked port, missing dependencies, 
-下午 10:33:09  [Apache] 	improper privileges, a crash, or a shutdown by another method.
-下午 10:33:09  [Apache] 	Press the Logs button to view error logs and check
-下午 10:33:09  [Apache] 	the Windows Event Viewer for more clues
-下午 10:33:09  [Apache] 	If you need more help, copy and post this
-下午 10:33:09  [Apache] 	entire log window on the forums
-下午 10:33:54  [Apache] 	Problem detected!
-下午 10:33:54  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
-下午 10:33:54  [Apache] 	Apache WILL NOT start without the configured ports free!
-下午 10:33:54  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
-下午 10:33:54  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
-下午 10:33:54  [Apache] 	Problem detected!
-下午 10:33:54  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 4508!
-下午 10:33:54  [Apache] 	Apache WILL NOT start without the configured ports free!
-下午 10:33:54  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
-下午 10:33:54  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
-下午 10:33:54  [Apache] 	Attempting to start Apache app...
-下午 10:33:54  [Apache] 	Status change detected: running
-下午 10:34:08  [Apache] 	Attempting to stop Apache (PID: 10224)
-下午 10:34:08  [Apache] 	Attempting to stop Apache (PID: 12240)
-下午 10:34:08  [Apache] 	Status change detected: stopped
-下午 10:34:09  [mysql] 	Attempting to stop MySQL app...
-下午 10:34:12  [mysql] 	Status change detected: stopped
-下午 10:34:17  [main] 	Deinitializing Modules
-下午 10:34:17  [main] 	Deinitializing Control Panel
+上午 10:58:53  [main] 	Initializing Control Panel
+上午 10:58:53  [main] 	Windows Version: Windows 8.1  64-bit
+上午 10:58:53  [main] 	XAMPP Version: 5.6.28
+上午 10:58:53  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+上午 10:58:53  [main] 	You are not running with administrator rights! This will work for
+上午 10:58:53  [main] 	most application stuff but whenever you do something with services
+上午 10:58:53  [main] 	there will be a security dialogue or things will break! So think 
+上午 10:58:53  [main] 	about running this application with administrator rights!
+上午 10:58:53  [main] 	XAMPP Installation Directory: "c:\users\superlevin\desktop\xampp-win32-5.6.28-0-vc11\xampp\"
+上午 10:58:53  [main] 	Checking for prerequisites
+上午 11:01:16  [main] 	All prerequisites found
+上午 11:01:16  [main] 	Initializing Modules
+上午 11:01:16  [main] 	Starting Check-Timer
+上午 11:01:16  [main] 	Control Panel Ready
+上午 11:02:30  [Apache] 	Attempting to start Apache app...
+上午 11:02:31  [Apache] 	Status change detected: running
+上午 11:02:47  [mysql] 	Attempting to start MySQL app...
+上午 11:02:47  [mysql] 	Status change detected: running
+上午 11:02:48  [mysql] 	Status change detected: stopped
+上午 11:02:48  [mysql] 	Error: MySQL shutdown unexpectedly.
+上午 11:02:48  [mysql] 	This may be due to a blocked port, missing dependencies, 
+上午 11:02:48  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+上午 11:02:48  [mysql] 	Press the Logs button to view error logs and check
+上午 11:02:48  [mysql] 	the Windows Event Viewer for more clues
+上午 11:02:48  [mysql] 	If you need more help, copy and post this
+上午 11:02:48  [mysql] 	entire log window on the forums
+上午 11:02:55  [mysql] 	Attempting to start MySQL app...
+上午 11:03:04  [Apache] 	Attempting to stop Apache (PID: 10200)
+上午 11:03:04  [Apache] 	Attempting to stop Apache (PID: 6608)
+上午 11:03:04  [Apache] 	Status change detected: stopped
+上午 11:03:07  [mysql] 	Attempting to start MySQL app...
+上午 11:03:48  [Apache] 	Attempting to start Apache app...
+上午 11:03:48  [Apache] 	Status change detected: running
+上午 11:03:50  [mysql] 	Attempting to start MySQL app...
+上午 11:03:50  [mysql] 	Status change detected: running
+上午 11:03:51  [mysql] 	Status change detected: stopped
+上午 11:03:51  [mysql] 	Error: MySQL shutdown unexpectedly.
+上午 11:03:51  [mysql] 	This may be due to a blocked port, missing dependencies, 
+上午 11:03:51  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+上午 11:03:51  [mysql] 	Press the Logs button to view error logs and check
+上午 11:03:51  [mysql] 	the Windows Event Viewer for more clues
+上午 11:03:51  [mysql] 	If you need more help, copy and post this
+上午 11:03:51  [mysql] 	entire log window on the forums
+上午 11:03:59  [Apache] 	Attempting to stop Apache (PID: 9412)
+上午 11:03:59  [Apache] 	Attempting to stop Apache (PID: 1124)
+上午 11:03:59  [Apache] 	Status change detected: stopped
+上午 11:08:06  [main] 	Deinitializing Modules
+上午 11:08:06  [main] 	Deinitializing Control Panel
 
-下午 10:34:36  [main] 	Initializing Control Panel
-下午 10:34:36  [main] 	Windows Version: Windows 7 Home Premium SP1 64-bit
-下午 10:34:36  [main] 	XAMPP Version: 5.6.24
-下午 10:34:36  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
-下午 10:34:36  [main] 	Running with Administrator rights - good!
-下午 10:34:36  [main] 	XAMPP Installation Directory: "d:\xampp\"
-下午 10:34:36  [main] 	Checking for prerequisites
-下午 10:34:36  [main] 	All prerequisites found
-下午 10:34:36  [main] 	Initializing Modules
-下午 10:34:36  [Apache] 	Problem detected!
-下午 10:34:36  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
-下午 10:34:36  [Apache] 	Apache WILL NOT start without the configured ports free!
-下午 10:34:36  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
-下午 10:34:36  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
-下午 10:34:36  [Apache] 	Problem detected!
-下午 10:34:36  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 4508!
-下午 10:34:36  [Apache] 	Apache WILL NOT start without the configured ports free!
-下午 10:34:36  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
-下午 10:34:36  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
-下午 10:34:36  [filezilla] 	Problem detected!
-下午 10:34:36  [filezilla] 	Port 21 in use by ""C:\Program Files (x86)\FileZilla Server\FileZilla Server.exe""!
-下午 10:34:36  [filezilla] 	FileZilla WILL NOT start without the configured ports free!
-下午 10:34:36  [filezilla] 	You need to uninstall/disable/reconfigure the blocking application
-下午 10:34:36  [filezilla] 	or reconfigure FileZilla and the Control Panel to listen on a different port
-下午 10:34:36  [filezilla] 	Problem detected!
-下午 10:34:36  [filezilla] 	Port 14147 in use by ""C:\Program Files (x86)\FileZilla Server\FileZilla Server.exe""!
-下午 10:34:36  [filezilla] 	FileZilla WILL NOT start without the configured ports free!
-下午 10:34:36  [filezilla] 	You need to uninstall/disable/reconfigure the blocking application
-下午 10:34:36  [filezilla] 	or reconfigure FileZilla and the Control Panel to listen on a different port
-下午 10:34:36  [main] 	Starting Check-Timer
-下午 10:34:36  [main] 	Control Panel Ready
-下午 10:34:38  [Apache] 	Problem detected!
-下午 10:34:38  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
-下午 10:34:38  [Apache] 	Apache WILL NOT start without the configured ports free!
-下午 10:34:38  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
-下午 10:34:38  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
-下午 10:34:38  [Apache] 	Problem detected!
-下午 10:34:38  [Apache] 	Port 443 in use by ""C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"" with PID 4508!
-下午 10:34:38  [Apache] 	Apache WILL NOT start without the configured ports free!
-下午 10:34:38  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
-下午 10:34:38  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
-下午 10:34:38  [Apache] 	Attempting to start Apache app...
-下午 10:34:38  [Apache] 	Status change detected: running
-下午 10:34:38  [mysql] 	Attempting to start MySQL app...
-下午 10:34:39  [mysql] 	Status change detected: running
-下午 10:50:38  [Apache] 	Attempting to stop Apache (PID: 10244)
-下午 10:50:38  [Apache] 	Attempting to stop Apache (PID: 11116)
-下午 10:50:38  [Apache] 	Status change detected: stopped
-下午 10:50:40  [mysql] 	Attempting to stop MySQL app...
-下午 10:50:42  [mysql] 	Status change detected: stopped
-下午 10:50:44  [main] 	Deinitializing Modules
-下午 10:50:44  [main] 	Deinitializing Control Panel
-
-下午 01:01:58  [main] 	Initializing Control Panel
-下午 01:01:58  [main] 	Windows Version: Windows 8.1  64-bit
-下午 01:01:58  [main] 	XAMPP Version: 5.6.24
-下午 01:01:58  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
-下午 01:01:58  [main] 	You are not running with administrator rights! This will work for
-下午 01:01:58  [main] 	most application stuff but whenever you do something with services
-下午 01:01:58  [main] 	there will be a security dialogue or things will break! So think 
-下午 01:01:58  [main] 	about running this application with administrator rights!
-下午 01:01:58  [main] 	XAMPP Installation Directory: "c:\users\superlevin\desktop\xampp\"
-下午 01:01:58  [main] 	Checking for prerequisites
-下午 01:03:27  [main] 	All prerequisites found
-下午 01:03:27  [main] 	Initializing Modules
-下午 01:03:27  [main] 	Starting Check-Timer
-下午 01:03:27  [main] 	Control Panel Ready
-下午 01:03:33  [main] 	Deinitializing Modules
-下午 01:03:33  [main] 	Deinitializing Control Panel
-
-下午 01:03:39  [main] 	Initializing Control Panel
-下午 01:03:39  [main] 	Windows Version: Windows 8.1  64-bit
-下午 01:03:39  [main] 	XAMPP Version: 5.6.24
-下午 01:03:39  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
-下午 01:03:39  [main] 	You are not running with administrator rights! This will work for
-下午 01:03:39  [main] 	most application stuff but whenever you do something with services
-下午 01:03:39  [main] 	there will be a security dialogue or things will break! So think 
-下午 01:03:39  [main] 	about running this application with administrator rights!
-下午 01:03:39  [main] 	XAMPP Installation Directory: "c:\users\superlevin\desktop\xampp\"
-下午 01:03:39  [main] 	Checking for prerequisites
-下午 01:03:39  [main] 	All prerequisites found
-下午 01:03:39  [main] 	Initializing Modules
-下午 01:03:39  [main] 	Starting Check-Timer
-下午 01:03:39  [main] 	Control Panel Ready
-下午 01:03:42  [Apache] 	Attempting to start Apache app...
-下午 01:03:42  [Apache] 	Status change detected: running
-下午 01:03:45  [mysql] 	Attempting to start MySQL app...
-下午 01:03:45  [mysql] 	Status change detected: running
-下午 01:05:15  [Apache] 	Attempting to stop Apache (PID: 2212)
-下午 01:05:15  [Apache] 	Attempting to stop Apache (PID: 8156)
-下午 01:05:16  [Apache] 	Status change detected: stopped
-下午 01:05:17  [Apache] 	Attempting to start Apache app...
-下午 01:05:17  [Apache] 	Status change detected: running
-下午 01:08:07  [Apache] 	Attempting to stop Apache (PID: 9336)
-下午 01:08:07  [Apache] 	Attempting to stop Apache (PID: 9380)
-下午 01:08:07  [Apache] 	Status change detected: stopped
-下午 01:08:07  [mysql] 	Attempting to stop MySQL app...
-下午 01:08:08  [mysql] 	Status change detected: stopped
-下午 01:08:08  [main] 	Deinitializing Modules
-下午 01:08:08  [main] 	Deinitializing Control Panel
-
-下午 01:11:02  [main] 	Initializing Control Panel
-下午 01:11:02  [main] 	Windows Version: Windows 8.1  64-bit
-下午 01:11:02  [main] 	XAMPP Version: 5.6.24
-下午 01:11:02  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
-下午 01:11:02  [main] 	You are not running with administrator rights! This will work for
-下午 01:11:02  [main] 	most application stuff but whenever you do something with services
-下午 01:11:02  [main] 	there will be a security dialogue or things will break! So think 
-下午 01:11:02  [main] 	about running this application with administrator rights!
-下午 01:11:02  [main] 	XAMPP Installation Directory: "c:\users\superlevin\desktop\xampp\"
-下午 01:11:02  [main] 	Checking for prerequisites
-下午 01:11:02  [main] 	All prerequisites found
-下午 01:11:02  [main] 	Initializing Modules
-下午 01:11:02  [main] 	Starting Check-Timer
-下午 01:11:02  [main] 	Control Panel Ready
-下午 01:11:04  [Apache] 	Attempting to start Apache app...
-下午 01:11:04  [Apache] 	Status change detected: running
-下午 01:11:05  [Apache] 	Status change detected: stopped
-下午 01:11:05  [Apache] 	Error: Apache shutdown unexpectedly.
-下午 01:11:05  [Apache] 	This may be due to a blocked port, missing dependencies, 
-下午 01:11:05  [Apache] 	improper privileges, a crash, or a shutdown by another method.
-下午 01:11:05  [Apache] 	Press the Logs button to view error logs and check
-下午 01:11:05  [Apache] 	the Windows Event Viewer for more clues
-下午 01:11:05  [Apache] 	If you need more help, copy and post this
-下午 01:11:05  [Apache] 	entire log window on the forums
-下午 01:11:12  [mysql] 	Attempting to start MySQL app...
-下午 01:12:24  [Apache] 	Attempting to start Apache app...
-下午 01:12:24  [Apache] 	Status change detected: running
-下午 01:12:25  [Apache] 	Status change detected: stopped
-下午 01:12:25  [Apache] 	Error: Apache shutdown unexpectedly.
-下午 01:12:25  [Apache] 	This may be due to a blocked port, missing dependencies, 
-下午 01:12:25  [Apache] 	improper privileges, a crash, or a shutdown by another method.
-下午 01:12:25  [Apache] 	Press the Logs button to view error logs and check
-下午 01:12:25  [Apache] 	the Windows Event Viewer for more clues
-下午 01:12:25  [Apache] 	If you need more help, copy and post this
-下午 01:12:25  [Apache] 	entire log window on the forums
-下午 01:12:26  [Apache] 	Attempting to start Apache app...
-下午 01:12:28  [Apache] 	Attempting to start Apache app...
-下午 01:12:29  [Apache] 	Status change detected: running
-下午 01:12:29  [Apache] 	Status change detected: stopped
-下午 01:12:29  [Apache] 	Error: Apache shutdown unexpectedly.
-下午 01:12:29  [Apache] 	This may be due to a blocked port, missing dependencies, 
-下午 01:12:29  [Apache] 	improper privileges, a crash, or a shutdown by another method.
-下午 01:12:29  [Apache] 	Press the Logs button to view error logs and check
-下午 01:12:29  [Apache] 	the Windows Event Viewer for more clues
-下午 01:12:29  [Apache] 	If you need more help, copy and post this
-下午 01:12:29  [Apache] 	entire log window on the forums
-下午 01:13:24  [Apache] 	Attempting to start Apache app...
-下午 01:13:25  [Apache] 	Status change detected: running
-下午 01:13:25  [Apache] 	Status change detected: stopped
-下午 01:13:25  [Apache] 	Error: Apache shutdown unexpectedly.
-下午 01:13:25  [Apache] 	This may be due to a blocked port, missing dependencies, 
-下午 01:13:25  [Apache] 	improper privileges, a crash, or a shutdown by another method.
-下午 01:13:25  [Apache] 	Press the Logs button to view error logs and check
-下午 01:13:25  [Apache] 	the Windows Event Viewer for more clues
-下午 01:13:25  [Apache] 	If you need more help, copy and post this
-下午 01:13:25  [Apache] 	entire log window on the forums
-下午 01:13:26  [Apache] 	Attempting to start Apache app...
-下午 01:13:27  [Apache] 	Status change detected: running
-下午 01:13:27  [Apache] 	Status change detected: stopped
-下午 01:13:27  [Apache] 	Error: Apache shutdown unexpectedly.
-下午 01:13:27  [Apache] 	This may be due to a blocked port, missing dependencies, 
-下午 01:13:27  [Apache] 	improper privileges, a crash, or a shutdown by another method.
-下午 01:13:27  [Apache] 	Press the Logs button to view error logs and check
-下午 01:13:27  [Apache] 	the Windows Event Viewer for more clues
-下午 01:13:27  [Apache] 	If you need more help, copy and post this
-下午 01:13:27  [Apache] 	entire log window on the forums
-下午 01:13:28  [main] 	Deinitializing Modules
-下午 01:13:28  [main] 	Deinitializing Control Panel
-
-下午 01:13:30  [main] 	Initializing Control Panel
-下午 01:13:30  [main] 	Windows Version: Windows 8.1  64-bit
-下午 01:13:30  [main] 	XAMPP Version: 5.6.24
-下午 01:13:30  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
-下午 01:13:30  [main] 	You are not running with administrator rights! This will work for
-下午 01:13:30  [main] 	most application stuff but whenever you do something with services
-下午 01:13:30  [main] 	there will be a security dialogue or things will break! So think 
-下午 01:13:30  [main] 	about running this application with administrator rights!
-下午 01:13:30  [main] 	XAMPP Installation Directory: "c:\users\superlevin\desktop\xampp\"
-下午 01:13:30  [main] 	Checking for prerequisites
-下午 01:13:31  [main] 	All prerequisites found
-下午 01:13:31  [main] 	Initializing Modules
-下午 01:13:31  [main] 	Starting Check-Timer
-下午 01:13:31  [main] 	Control Panel Ready
-下午 01:13:32  [mysql] 	Attempting to start MySQL app...
-下午 01:14:00  [mysql] 	Attempting to start MySQL app...
-下午 01:14:00  [mysql] 	Status change detected: running
-下午 01:14:01  [mysql] 	Status change detected: stopped
-下午 01:14:01  [mysql] 	Error: MySQL shutdown unexpectedly.
-下午 01:14:01  [mysql] 	This may be due to a blocked port, missing dependencies, 
-下午 01:14:01  [mysql] 	improper privileges, a crash, or a shutdown by another method.
-下午 01:14:01  [mysql] 	Press the Logs button to view error logs and check
-下午 01:14:01  [mysql] 	the Windows Event Viewer for more clues
-下午 01:14:01  [mysql] 	If you need more help, copy and post this
-下午 01:14:01  [mysql] 	entire log window on the forums
-下午 01:14:02  [mysql] 	Attempting to start MySQL app...
-下午 01:14:04  [mysql] 	Attempting to start MySQL app...
-下午 01:14:06  [mysql] 	Attempting to start MySQL app...
-下午 01:14:06  [mysql] 	Status change detected: running
-下午 01:14:07  [mysql] 	Status change detected: stopped
-下午 01:14:07  [mysql] 	Error: MySQL shutdown unexpectedly.
-下午 01:14:07  [mysql] 	This may be due to a blocked port, missing dependencies, 
-下午 01:14:07  [mysql] 	improper privileges, a crash, or a shutdown by another method.
-下午 01:14:07  [mysql] 	Press the Logs button to view error logs and check
-下午 01:14:07  [mysql] 	the Windows Event Viewer for more clues
-下午 01:14:07  [mysql] 	If you need more help, copy and post this
-下午 01:14:07  [mysql] 	entire log window on the forums
-下午 01:14:07  [Apache] 	Attempting to start Apache app...
-下午 01:14:07  [Apache] 	Status change detected: running
-下午 01:14:08  [Apache] 	Status change detected: stopped
-下午 01:14:08  [Apache] 	Error: Apache shutdown unexpectedly.
-下午 01:14:08  [Apache] 	This may be due to a blocked port, missing dependencies, 
-下午 01:14:08  [Apache] 	improper privileges, a crash, or a shutdown by another method.
-下午 01:14:08  [Apache] 	Press the Logs button to view error logs and check
-下午 01:14:08  [Apache] 	the Windows Event Viewer for more clues
-下午 01:14:08  [Apache] 	If you need more help, copy and post this
-下午 01:14:08  [Apache] 	entire log window on the forums
-下午 01:14:09  [Apache] 	Attempting to start Apache app...
-下午 01:15:05  [main] 	Deinitializing Modules
-下午 01:15:05  [main] 	Deinitializing Control Panel
-
-下午 01:15:41  [main] 	Initializing Control Panel
-下午 01:15:41  [main] 	Windows Version: Windows 8.1  64-bit
-下午 01:15:41  [main] 	XAMPP Version: 5.6.24
-下午 01:15:41  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
-下午 01:15:41  [main] 	You are not running with administrator rights! This will work for
-下午 01:15:41  [main] 	most application stuff but whenever you do something with services
-下午 01:15:41  [main] 	there will be a security dialogue or things will break! So think 
-下午 01:15:41  [main] 	about running this application with administrator rights!
-下午 01:15:41  [main] 	XAMPP Installation Directory: "c:\xampp\"
-下午 01:15:41  [main] 	Checking for prerequisites
-下午 01:15:41  [main] 	All prerequisites found
-下午 01:15:41  [main] 	Initializing Modules
-下午 01:15:41  [main] 	Starting Check-Timer
-下午 01:15:41  [main] 	Control Panel Ready
-下午 01:15:43  [Apache] 	Attempting to start Apache app...
-下午 01:15:44  [Apache] 	Status change detected: running
-下午 01:15:46  [mysql] 	Attempting to start MySQL app...
-下午 01:15:47  [mysql] 	Status change detected: running
-下午 01:17:16  [Apache] 	Attempting to stop Apache (PID: 3588)
-下午 01:17:16  [Apache] 	Attempting to stop Apache (PID: 3692)
-下午 01:17:17  [Apache] 	Status change detected: stopped
-下午 01:18:28  [Apache] 	Attempting to start Apache app...
-下午 01:18:29  [Apache] 	Status change detected: running
-下午 02:03:05  [Apache] 	Attempting to stop Apache (PID: 3512)
-下午 02:03:05  [Apache] 	Attempting to stop Apache (PID: 8772)
-下午 02:03:05  [Apache] 	Status change detected: stopped
-下午 02:03:06  [mysql] 	Attempting to stop MySQL app...
-下午 02:03:09  [mysql] 	Status change detected: stopped
-下午 02:03:57  [main] 	Deinitializing Modules
-下午 02:03:57  [main] 	Deinitializing Control Panel
+上午 11:16:09  [main] 	Initializing Control Panel
+上午 11:16:09  [main] 	Windows Version: Windows 8.1  64-bit
+上午 11:16:09  [main] 	XAMPP Version: 5.6.28
+上午 11:16:09  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+上午 11:16:09  [main] 	You are not running with administrator rights! This will work for
+上午 11:16:09  [main] 	most application stuff but whenever you do something with services
+上午 11:16:09  [main] 	there will be a security dialogue or things will break! So think 
+上午 11:16:09  [main] 	about running this application with administrator rights!
+上午 11:16:09  [main] 	XAMPP Installation Directory: "d:\xampp\"
+上午 11:16:09  [main] 	Checking for prerequisites
+上午 11:16:09  [main] 	All prerequisites found
+上午 11:16:09  [main] 	Initializing Modules
+上午 11:16:09  [main] 	Starting Check-Timer
+上午 11:16:09  [main] 	Control Panel Ready
+上午 11:16:11  [Apache] 	Attempting to start Apache app...
+上午 11:16:15  [Apache] 	Status change detected: running
+上午 11:16:31  [mysql] 	Attempting to start MySQL app...
+上午 11:16:31  [mysql] 	Status change detected: running
+上午 11:16:46  [Apache] 	Attempting to stop Apache (PID: 8824)
+上午 11:16:46  [Apache] 	Attempting to stop Apache (PID: 9312)
+上午 11:16:47  [Apache] 	Status change detected: stopped
+上午 11:16:49  [Apache] 	Attempting to start Apache app...
+上午 11:16:49  [Apache] 	Status change detected: running
+上午 11:19:27  [Apache] 	Attempting to stop Apache (PID: 9256)
+上午 11:19:27  [Apache] 	Attempting to stop Apache (PID: 9668)
+上午 11:19:27  [Apache] 	Status change detected: stopped
+上午 11:19:28  [mysql] 	Attempting to stop MySQL app...
+上午 11:19:42  [main] 	Deinitializing Modules
+上午 11:19:42  [main] 	Deinitializing Control Panel
 
