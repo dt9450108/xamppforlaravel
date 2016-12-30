@@ -1,79 +1,17 @@
-上午 10:58:53  [main] 	Initializing Control Panel
-上午 10:58:53  [main] 	Windows Version: Windows 8.1  64-bit
-上午 10:58:53  [main] 	XAMPP Version: 5.6.28
-上午 10:58:53  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
-上午 10:58:53  [main] 	You are not running with administrator rights! This will work for
-上午 10:58:53  [main] 	most application stuff but whenever you do something with services
-上午 10:58:53  [main] 	there will be a security dialogue or things will break! So think 
-上午 10:58:53  [main] 	about running this application with administrator rights!
-上午 10:58:53  [main] 	XAMPP Installation Directory: "c:\users\superlevin\desktop\xampp-win32-5.6.28-0-vc11\xampp\"
-上午 10:58:53  [main] 	Checking for prerequisites
-上午 11:01:16  [main] 	All prerequisites found
-上午 11:01:16  [main] 	Initializing Modules
-上午 11:01:16  [main] 	Starting Check-Timer
-上午 11:01:16  [main] 	Control Panel Ready
-上午 11:02:30  [Apache] 	Attempting to start Apache app...
-上午 11:02:31  [Apache] 	Status change detected: running
-上午 11:02:47  [mysql] 	Attempting to start MySQL app...
-上午 11:02:47  [mysql] 	Status change detected: running
-上午 11:02:48  [mysql] 	Status change detected: stopped
-上午 11:02:48  [mysql] 	Error: MySQL shutdown unexpectedly.
-上午 11:02:48  [mysql] 	This may be due to a blocked port, missing dependencies, 
-上午 11:02:48  [mysql] 	improper privileges, a crash, or a shutdown by another method.
-上午 11:02:48  [mysql] 	Press the Logs button to view error logs and check
-上午 11:02:48  [mysql] 	the Windows Event Viewer for more clues
-上午 11:02:48  [mysql] 	If you need more help, copy and post this
-上午 11:02:48  [mysql] 	entire log window on the forums
-上午 11:02:55  [mysql] 	Attempting to start MySQL app...
-上午 11:03:04  [Apache] 	Attempting to stop Apache (PID: 10200)
-上午 11:03:04  [Apache] 	Attempting to stop Apache (PID: 6608)
-上午 11:03:04  [Apache] 	Status change detected: stopped
-上午 11:03:07  [mysql] 	Attempting to start MySQL app...
-上午 11:03:48  [Apache] 	Attempting to start Apache app...
-上午 11:03:48  [Apache] 	Status change detected: running
-上午 11:03:50  [mysql] 	Attempting to start MySQL app...
-上午 11:03:50  [mysql] 	Status change detected: running
-上午 11:03:51  [mysql] 	Status change detected: stopped
-上午 11:03:51  [mysql] 	Error: MySQL shutdown unexpectedly.
-上午 11:03:51  [mysql] 	This may be due to a blocked port, missing dependencies, 
-上午 11:03:51  [mysql] 	improper privileges, a crash, or a shutdown by another method.
-上午 11:03:51  [mysql] 	Press the Logs button to view error logs and check
-上午 11:03:51  [mysql] 	the Windows Event Viewer for more clues
-上午 11:03:51  [mysql] 	If you need more help, copy and post this
-上午 11:03:51  [mysql] 	entire log window on the forums
-上午 11:03:59  [Apache] 	Attempting to stop Apache (PID: 9412)
-上午 11:03:59  [Apache] 	Attempting to stop Apache (PID: 1124)
-上午 11:03:59  [Apache] 	Status change detected: stopped
-上午 11:08:06  [main] 	Deinitializing Modules
-上午 11:08:06  [main] 	Deinitializing Control Panel
-
-上午 11:16:09  [main] 	Initializing Control Panel
-上午 11:16:09  [main] 	Windows Version: Windows 8.1  64-bit
-上午 11:16:09  [main] 	XAMPP Version: 5.6.28
-上午 11:16:09  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
-上午 11:16:09  [main] 	You are not running with administrator rights! This will work for
-上午 11:16:09  [main] 	most application stuff but whenever you do something with services
-上午 11:16:09  [main] 	there will be a security dialogue or things will break! So think 
-上午 11:16:09  [main] 	about running this application with administrator rights!
-上午 11:16:09  [main] 	XAMPP Installation Directory: "d:\xampp\"
-上午 11:16:09  [main] 	Checking for prerequisites
-上午 11:16:09  [main] 	All prerequisites found
-上午 11:16:09  [main] 	Initializing Modules
-上午 11:16:09  [main] 	Starting Check-Timer
-上午 11:16:09  [main] 	Control Panel Ready
-上午 11:16:11  [Apache] 	Attempting to start Apache app...
-上午 11:16:15  [Apache] 	Status change detected: running
-上午 11:16:31  [mysql] 	Attempting to start MySQL app...
-上午 11:16:31  [mysql] 	Status change detected: running
-上午 11:16:46  [Apache] 	Attempting to stop Apache (PID: 8824)
-上午 11:16:46  [Apache] 	Attempting to stop Apache (PID: 9312)
-上午 11:16:47  [Apache] 	Status change detected: stopped
-上午 11:16:49  [Apache] 	Attempting to start Apache app...
-上午 11:16:49  [Apache] 	Status change detected: running
-上午 11:19:27  [Apache] 	Attempting to stop Apache (PID: 9256)
-上午 11:19:27  [Apache] 	Attempting to stop Apache (PID: 9668)
-上午 11:19:27  [Apache] 	Status change detected: stopped
-上午 11:19:28  [mysql] 	Attempting to stop MySQL app...
-上午 11:19:42  [main] 	Deinitializing Modules
-上午 11:19:42  [main] 	Deinitializing Control Panel
+下午 01:47:01  [main] 	Initialisere Control Panel
+下午 01:47:01  [main] 	Windows Version: Windows 8.1  64-bit
+下午 01:47:01  [main] 	XAMPP Version: 7.0.13
+下午 01:47:01  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 01:47:01  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus fur die meisten
+下午 01:47:01  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun mochtest,
+下午 01:47:01  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+下午 01:47:01  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+下午 01:47:01  [main] 	XAMPP Installationsverzeichnis: "d:\xampp\"
+下午 01:47:01  [main] 	Voraussetzungen werden gepruft
+下午 01:47:19  [main] 	Alle Voraussetzungen sind erfullt
+下午 01:47:19  [main] 	Initialisiere Module
+下午 01:47:19  [main] 	Starte Check-Timer
+下午 01:47:19  [main] 	Control Panel bereit
+下午 01:47:57  [main] 	Deinitialisiere Module
+下午 01:47:57  [main] 	Deinitialisiere Control Panel
 
